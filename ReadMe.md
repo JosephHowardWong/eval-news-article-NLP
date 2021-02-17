@@ -2,7 +2,7 @@
 
 ## This is Udacity project #4
 
-### The functionality is to have the user enter a url and to have the sentiment of the page analyzed by Meaning Cloud API
+### The functionality is to have the user enter a url, have the sentiment of the page analyzed by Meaning Cloud API, and to update the UI with the analysis
 
 ### The requirements are as follows
 
