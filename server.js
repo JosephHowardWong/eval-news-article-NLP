@@ -9,7 +9,7 @@ app.use(cors())
 app.use(bodyParser.urlencoded({ extended: false}))
 app.use(bodyParser.json())
 
-dotenv.config({path: './config.env'})
+dotenv.config()
 
 const MC_URL = 'https://api.meaningcloud.com/sentiment-2.1';
 
