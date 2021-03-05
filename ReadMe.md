@@ -46,3 +46,5 @@ export function validURL(str) {
 ```
 
 [Go here to learn more about webpack!!](https://webpack.js.org/)
+
+# Project hosted on [https://eval-news-article-nlp.herokuapp.com/](https://eval-news-article-nlp.herokuapp.com/)
