@@ -48,3 +48,4 @@ export function validURL(str) {
 [Go here to learn more about webpack!!](https://webpack.js.org/)
 
 ### Project hosted on [https://eval-news-article-nlp.herokuapp.com/](https://eval-news-article-nlp.herokuapp.com/)
+- in order to make calls to the backend, I deleted the prefix of http://localhost:8080 before deploying to heroku
